@@ -11,7 +11,7 @@
 - 目標地點路線規劃與標示
 - 可個性化儲存常用位置(居住位置/工作地點)
 
-### 左為乘客畫面 右為司機畫面
+### 左為乘客畫面     右為司機畫面
 
 
 ![tele01](https://user-images.githubusercontent.com/79194167/162865085-014df83a-f60a-4059-a908-f018ef834578.gif).   ![tele02](https://user-images.githubusercontent.com/79194167/162865118-c414bc8c-dfac-42f5-9fc4-d1bd14ca4d40.gif)
